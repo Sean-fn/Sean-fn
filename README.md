@@ -6,7 +6,7 @@ I'm a back-end developer!
 
 I've been working and studying technology since couple months ago, and during this time I worked with diverse types of projects like web programming, machine learning and much more in the future!
 
-I fell in love with backend development and machine learning because they allow me to dive into the world of coding and data. Backend development lets me build the foundation and functionality of websites and applications, while machine learning enables me to analyze data, make predictions, and solve complex problems. It's the perfect blend of technical expertise and problem-solving that fuels my passion for programming.
+I fell in love with backend development and machine learning programing because they allow me to dive into the world of coding and data. Backend development lets me build the foundation and functionality of websites and applications, while machine learning enables me to analyze data, make predictions, and solve complex problems. It's the perfect blend of technical expertise and problem-solving that fuels my passion for programming.
 
 ## 👨🏻‍💻 About me
 
@@ -43,15 +43,22 @@ I fell in love with backend development and machine learning because they allow 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Seanf122&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanf122&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cason's streak" src="https://streak-stats.demolab.com?user=Seanf122&theme=tokyonight&card_width=1000"/>
+  </a>
+</p>
+
 
 ---
 
