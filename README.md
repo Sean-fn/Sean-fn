@@ -2,11 +2,11 @@
 
 # 🖖 Hey dev! Welcome to my profile
 
-I'm a front-end developer!
+I'm a back-end developer!
 
-I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
+I've been working and studying technology since couple months ago, and during this time I worked with diverse types of projects like web programming, machine learning and much more in the future!
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+I fell in love with backend development and machine learning because they allow me to dive into the world of coding and data. Backend development lets me build the foundation and functionality of websites and applications, while machine learning enables me to analyze data, make predictions, and solve complex problems. It's the perfect blend of technical expertise and problem-solving that fuels my passion for programming.
 
 ## 👨🏻‍💻 About me
 
