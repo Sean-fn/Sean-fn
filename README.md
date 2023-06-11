@@ -21,7 +21,7 @@ I fell in love with backend development and machine learning programing because 
 - 🧠 Love sharing knowledge
 - 📚 Fueled by a Passion for Lifelong Learning
 - 🧗🏻 Rock climbing is one of my favorite hobbies
-- 📧 Reach me via fsean122@gmail.com
+- 📧 Reach me via f.sean122@gmail.com
 
 <br>
 <br>
