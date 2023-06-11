@@ -35,6 +35,8 @@ I fell in love with backend development and machine learning programing because 
 ![pytorch Logo](/images/pytorch.svg)
 ![git Logo](/images/git.svg)
 ![linux Logo](/images/linux.svg)
+![kubernetes Logo](/images/kubernetes.svg)
+![swift Logo](/images/swift.svg)
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
