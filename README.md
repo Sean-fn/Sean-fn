@@ -41,7 +41,7 @@ I fell in love with backend development and machine learning programing because 
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
-![flask Logo](/images/flask.svg)
+![safari Logo](/images/safari.svg)
 
 ## 📊 Take a look in my stats
 
