@@ -2,9 +2,9 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Seanf122&style=flat-square&color=blueviolet">
 
-I'm a back-end developer!
+I'm a back-end developer and a BCS student at China University of Technology.
 
-I've been working and studying technology since couple months ago, and during this time I worked with diverse types of projects like web programming, machine learning and much more in the future!
+I've been immersing myself in the world of technology for the past couple of months. During this time, I worked with diverse types of projects like web programming, machine learning and many more exciting endeavors to come in the near future!
 
 I fell in love with backend development and machine learning programing because they allow me to dive into the world of coding and data. Backend development lets me build the foundation and functionality of websites and applications, while machine learning enables me to analyze data, make predictions, and solve complex problems. It's the perfect blend of technical expertise and problem-solving that fuels my passion for programming.
 
@@ -15,10 +15,11 @@ I fell in love with backend development and machine learning programing because 
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Taiwan
-- 👨🏻‍💻 Love programming and gaming
+- 🎓 currently studying Computer Science at China University of Technology
+- 👨🏻‍💻 Love programming and problem solving
 - 🧠 Love sharing knowledge
-- 🧗🏻 Passionate for Climbing
-- ⛷️ Snowboarding is one of my favorite hobbies
+- 📚 Fueled by a Passion for Lifelong Learning
+- 🧗🏻 Rock climbing is one of my favorite hobbies
 - 📧 Reach me via fsean122@gmail.com
 
 <br>
@@ -30,11 +31,13 @@ I fell in love with backend development and machine learning programing because 
 ## 💻 Tech stack
 
 ![python Logo](/images/python.svg)
+![Docker Logo](/images/docker.svg)
+![pytorch Logo](/images/pytorch.svg)
+![git Logo](/images/git.svg)
+![linux Logo](/images/linux.svg)
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
-![Docker Logo](/images/docker.svg)
-![pytorch Logo](/images/pytorch.svg)
 ![flask Logo](/images/flask.svg)
 
 ## 📊 Take a look in my stats
@@ -55,7 +58,7 @@ I fell in love with backend development and machine learning programing because 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cason's streak" src="https://streak-stats.demolab.com?user=Seanf122&theme=tokyonight&card_width=1000"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cason's streak" src="https://streak-stats.demolab.com?user=Seanf122&theme=tokyonight&card_width=750"/>
   </a>
 </p>
 
