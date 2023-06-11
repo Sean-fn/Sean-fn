@@ -15,6 +15,7 @@ I fell in love with backend development and machine learning programing because 
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Taiwan
+
 - 🎓 currently studying Computer Science at China University of Technology
 - 👨🏻‍💻 Love programming and problem solving
 - 🧠 Love sharing knowledge
