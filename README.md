@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# Hey dev! Welcome to my profile <img src="./images/Hi.gif" width="30px" > <img align="right" src="https://komarev.com/ghpvc/?username=Seanf122&style=flat-square&color=blueviolet">
+# Hey dev! Welcome to my profile <img src="./images/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=Seanf122&style=flat-square&color=blueviolet">
 
 I'm a back-end developer and a BCS student at China University of Technology.
 
@@ -37,7 +37,7 @@ I fell in love with backend development and machine learning programing because 
 ![pytorch Logo](/images/pytorch.svg)
 ![git Logo](/images/git.svg)
 ![linux Logo](/images/linux.svg)
-![swiftui Logo](/images/swiftui.svg)
+<img src="./images/swiftui.png" width="50px">
 ![swift Logo](/images/swift.svg)
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
