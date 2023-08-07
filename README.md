@@ -46,9 +46,9 @@ I fell in love with backend development and machine learning programing because 
 
 ## 📊 Take a look in my stats
 
-<a href="https://github.com/seanf122">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Seanf122&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanf122&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<a href="https://github.com/Sean-fn">
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Sean-fn&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-fn&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
 <br>
 <br>
@@ -62,7 +62,7 @@ I fell in love with backend development and machine learning programing because 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cason's streak" src="https://streak-stats.demolab.com?user=Seanf122&theme=tokyonight&card_width=750"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cason's streak" src="https://streak-stats.demolab.com?user=Sean-fn&theme=tokyonight&card_width=750"/>
   </a>
 </p>
 
