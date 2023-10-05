@@ -6,8 +6,6 @@ I'm a back-end developer and a BCS student at China University of Technology.
 
 I've been immersing myself in the world of technology for the past couple of months. During this time, I worked with diverse types of projects like web programming, machine learning and many more exciting endeavors to come in the near future!
 
-I fell in love with backend development and machine learning programing, they allow me to dive into the world of coding and data. Backend development lets me build the foundation and functionality of websites and applications, while machine learning enables me to analyze data, make predictions, and solve complex problems. It's the perfect blend of technical expertise and problem-solving that fuels my passion for programming.
-
 ## 👨🏻‍💻 About me
 
 <br>
@@ -19,7 +17,7 @@ I fell in love with backend development and machine learning programing, they al
 - 🎓 currently studying Computer Science at China University of Technology
 - 👨🏻‍💻 Love programming and problem solving
 - 🧠 Love sharing knowledge
-- 📚 Fueled by a Passion for Lifelong Learning
+- 📚 Fueled by a Passion for Learning
 - 🧗🏻 Rock climbing is one of my favorite hobbies
 - 📧 Reach me via f.sean122@gmail.com
 
