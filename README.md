@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# Hey dev! Welcome to my profile <img src="./images/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=Seanf122&style=flat-square&color=blueviolet">
+# Hey dev! Welcome to my profile 🖖🏻
 
 I'm a back-end developer and a BCS student at China University of Technology.
 
@@ -80,6 +80,7 @@ I've been immersing myself in the world of technology for the past couple of mon
 
 
 <!--
+<img src="./images/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=Seanf122&style=flat-square&color=blueviolet">
 **Seanf122/Seanf122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
