@@ -19,7 +19,7 @@ I've been immersing myself in the world of technology for the past couple of mon
 - 🧠 Love sharing knowledge
 - 📚 Fueled by a Passion for Learning
 - 🧗🏻 Rock climbing is one of my favorite hobbies
-- 📧 Reach me via f.sean122@gmail.com
+- 📧 Reach me via dev@sean-fn.com
 
 <br>
 <br>
