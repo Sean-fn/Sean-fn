@@ -2,9 +2,9 @@
 
 # Hey dev! Welcome to my profile 🖖🏻
 
-I'm a back-end developer and a BCS student at China University of Technology.
+I'm a back-end developer and a BCS student at Yuan Ze University.
 
-I've been immersing myself in the world of technology for the past couple of months. During this time, I worked with diverse types of projects like web programming, machine learning and many more exciting endeavors to come in the near future!
+I've been immersing myself in the world of technology for the past 2 years. During this time, I worked with diverse types of projects like web programming, machine learning and many more exciting endeavors to come in the near future!
 
 ## 👨🏻‍💻 About me
 
@@ -14,7 +14,7 @@ I've been immersing myself in the world of technology for the past couple of mon
 
 - 🌎 I'm from Taiwan
 
-- 🎓 currently studying Computer Science at China University of Technology
+- 🎓 currently studying Computer Science at Yuan Ze University
 - 👨🏻‍💻 Love programming and problem solving
 - 🧠 Love sharing knowledge
 - 📚 Fueled by a Passion for Learning
@@ -35,12 +35,6 @@ I've been immersing myself in the world of technology for the past couple of mon
 ![pytorch Logo](/images/pytorch.svg)
 ![git Logo](/images/git.svg)
 ![linux Logo](/images/linux.svg)
-<img src="./images/swiftui.png" width="50px">
-![swift Logo](/images/swift.svg)
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
-![safari Logo](/images/safari.svg)
 
 ## 📊 Take a look in my stats
 
@@ -93,4 +87,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="./images/swiftui.png" width="50px">
+![swift Logo](/images/swift.svg)
+![HTML Logo](/images/html5.svg)
+![CSS Logo](/images/css3.svg)
+![Javascript Logo](/images/javascript.svg)
 -->
