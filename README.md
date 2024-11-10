@@ -36,6 +36,7 @@ I've been immersing myself in the world of technology for the past 2 years. Duri
 ![git Logo](/images/git.svg)
 ![linux Logo](/images/linux.svg)
 
+<!--
 ## 📊 Take a look in my stats
 
 <a href="https://github.com/Sean-fn">
@@ -57,7 +58,7 @@ I've been immersing myself in the world of technology for the past 2 years. Duri
     <img title="🔥Sean's streak" src="https://streak-stats.demolab.com?user=Sean-fn&theme=tokyonight&card_width=750"/>
   </a>
 </p>
-
+-->
 
 ---
 
