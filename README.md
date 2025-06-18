@@ -6,7 +6,7 @@ I'm a back-end developer and a BCS student at Yuan Ze University.
 
 I've been immersing myself in the world of technology for the past 2 years. During this time, I worked with diverse types of projects like web programming, machine learning and many more exciting endeavors to come in the near future!
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me 
 
 <br>
 
